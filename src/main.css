@@ -1,0 +1,11 @@
+div{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+.color{
+    text-align: center;
+    background-color: rgb(245, 245, 252);
+}
